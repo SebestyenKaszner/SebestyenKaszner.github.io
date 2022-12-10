@@ -1,0 +1,10 @@
+.kep{
+    background-image: url(download.jpg);
+    background-repeat: repeat;
+    font-size: 20px;
+    -webkit-text-stroke: 1.5px black;
+}
+
+div{
+    color: black;
+}
